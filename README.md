@@ -1,14 +1,27 @@
-![github profile gif](https://i.imgur.com/cVpN5Po.mp4?raw=true)
+![github profile gif](https://github.com/leawn/leawn/blob/master/hey.gif?raw=true)
 
-### Hey there, I'm Leon 👋
+### Hey there, I'm Leo 👋
 
-Here are some ideas to get you started:
+I'm really passionate about the whole programming world at all, but these ones are the ones...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ... email: leonrubner2809@gmail.com / telegram: @le_awn
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- I work with now:
+    JavaScript, TypeScript;
+    Node.js (Express, Nest.js);
+    REST, JSON, Auth;
+    React, GraphQL, Nest.js;
+    PostgreSQL, MongoDB, Redis, MySQL;
+    Docker, Kubernetes, Nginx;
+    Apache Kafka, NATS, RabbitMQ(a little);
+    Google Cloud => Amazon AWS => Digital Ocean => Everything else
+
+- I wanna learn to work with:
+    Golang, Scala, C;
+    gRPC;
+    Apache Cassandra, Confluent;
+    containerd, HAProxy/Envoy;
+    Azure???;
+    More on networking;
+
+- Which I wanna make my hobby:
+    Arduino, PLC Programming, Microcontrollers;
+
