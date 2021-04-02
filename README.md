@@ -1,3 +1,5 @@
+![github profile gif](https://i.imgur.com/cVpN5Po.mp4?raw=true)
+
 ### Hey there, I'm Leon 👋
 
 Here are some ideas to get you started:
