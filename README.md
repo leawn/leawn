@@ -16,7 +16,7 @@ I'm really passionate about the whole programming world at all, but these ones a
 
 - I wanna learn to work with:
     Golang, Scala, C;
-    gRPC;
+    gRPC, Websockets;
     Apache Cassandra, Confluent;
     containerd, HAProxy/Envoy;
     Azure???;
