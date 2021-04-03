@@ -8,7 +8,7 @@ I'm really passionate about the whole programming world at all, but these ones a
     JavaScript, TypeScript;
     Node.js (Express, Nest.js);
     REST, JSON, Auth;
-    React, GraphQL, Nest.js;
+    React, styled-components, GraphQL, Nest.js;
     PostgreSQL, MongoDB, Redis, MySQL;
     Docker, Kubernetes, Nginx;
     Apache Kafka, NATS, RabbitMQ(a little);
