@@ -12,7 +12,7 @@ I'm really passionate about the whole programming world at all, but these ones a
     PostgreSQL, MongoDB, Redis, MySQL;
     Docker, Kubernetes, Nginx;
     Apache Kafka, NATS, RabbitMQ(a little);
-    Google Cloud => Amazon AWS => Digital Ocean => Everything else
+    Google Cloud => Amazon AWS => Digital Ocean => Everything else, (CI/CD)
 
 - I wanna learn to work with:
     Golang, Scala, C;
