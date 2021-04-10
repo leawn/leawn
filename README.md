@@ -20,7 +20,7 @@ I'm really passionate about the whole programming world at all, but these ones a
     Apache Cassandra, Confluent;
     containerd, HAProxy/Envoy;
     Azure???;
-    More on networking;
+    More on networking and software architecture;
 
 - Which I wanna make my hobby:
     Arduino, PLC Programming, Microcontrollers;
