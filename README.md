@@ -7,8 +7,8 @@ I'm really passionate about programming and with these technologies...
 - I work now:
     JavaScript, TypeScript;
     Node.js (Express, Nest.js);
-    REST, JSON, Auth;
-    React, styled-components, GraphQL, Next.js;
+    REST, GraphQL, JSON, Auth;
+    React, styled-components, Next.js;
     PostgreSQL, MongoDB, Redis, MySQL;
     Docker, Kubernetes, Nginx;
     Apache Kafka, NATS, RabbitMQ(a little);
