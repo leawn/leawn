@@ -17,7 +17,7 @@ I'm really passionate about programming and with these technologies...
 - I wanna learn:
     Golang, Scala, C;
     gRPC, Websockets;
-    Apache Cassandra, Confluent;
+    Apache stack, Confluent;
     containerd, HAProxy/Envoy;
     Azure???;
     More on networking and software architecture;
