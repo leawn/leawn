@@ -2,7 +2,7 @@
 
 ### Hey there, I'm Leo 👋
 
-I'm really passionate about programming and with these technologies...
+I'm really passionate about programming and (with) these technologies...
 
 - I work now:
     JavaScript, TypeScript;
