@@ -9,18 +9,14 @@ I'm really passionate about programming and (with) these technologies...
     Node.js (Express, Nest.js);
     REST, GraphQL, JSON, Auth;
     React, styled-components, Next.js;
-    PostgreSQL, MongoDB, Redis, MySQL;
-    Docker, Kubernetes, Nginx;
+    PostgreSQL, MongoDB, Redis, MySQL, Apache Cassandra;
+    Docker, Kubernetes, Nginx, HAProxy;
     Apache Kafka, NATS, RabbitMQ(a little);
-    Google Cloud => Amazon AWS => Digital Ocean => Everything else, (CI/CD)
+    Terraform, Helm, Argo CD, Travis CI, GitHub Actions, Google Cloud, Amazon AWS
 
 - I wanna learn:
     Golang, Scala, C;
-    gRPC, Websockets;
     Apache stack, Confluent;
-    containerd, HAProxy/Envoy;
-    Azure???;
-    More on networking and software architecture;
 
 - I wanna make my hobby:
     Arduino, PLC Programming, Microcontrollers;
