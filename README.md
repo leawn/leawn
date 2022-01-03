@@ -16,8 +16,8 @@ I'm really passionate about programming and (with) these technologies...
 
 - I wanna learn:
     Golang, Scala, C;
-    Apache stack, Confluent;
+    Apache stack;
 
-- I wanna make my hobby:
+- I like as a hobby:
     Arduino, PLC Programming, Microcontrollers;
 
